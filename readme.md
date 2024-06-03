@@ -34,7 +34,7 @@ Kode ini bertujuan untuk melakukan analisis regresi linear ganda dan menghitung 
 3. Amati hasil analisis regresi linear ganda dan koefisien korelasi antara variabel.
 
 ## Kontributor
-- Muhammad Faiq Raiha
+- Muhammad Faiq Raihan Dhiyaulhak
 - Galen Kumara Anwar
 - Ahmad Husni Mubarok Yasin
 - Umi khalsum
